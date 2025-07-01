@@ -103,7 +103,7 @@ Conheça os arquitetos por trás da nossa inovação.
 Pronto para transformar sua ideia em realidade?
 
 -   📧 **E-mail:** `vytruve.contact@gmail.com`
--   🌐 **GitHub:** [https://vytruve.org](https://vytruve.org)
+-   🌐 **Nosso site:** [https://vytruve.org](https://vytruve.org)
 -   💼 **LinkedIn:** *Página da empresa em breve*
 
 <p align="center">
