@@ -107,5 +107,5 @@ Pronto para transformar sua ideia em realidade?
 -   💼 **LinkedIn:** *Página da empresa em breve*
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&background=000000¢er=true&vCenter=true&width=600&lines=Vytruve+%7C+Engenharia+para+o+Amanh%C3%A3" alt="Vytruve Footer SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&background=000000¢er=true&vCenter=true&width=600&lines=Vytruve+%7C+Engenharia+para+o+Amanh%C3%A3" alt="Vytruve Footer SVG">
 </p>
