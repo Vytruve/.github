@@ -3,48 +3,45 @@ name: Update Org Activity in README
 
 # Gatilhos: quando a Action deve rodar
 on:
-  # Roda automaticamente a cada 30 minutos para manter o perfil sempre atualizado
+  # Roda automaticamente a cada 30 minutos
   schedule:
     - cron: '*/30 * * * *'
   
-  # Permite que você rode manualmente pela aba "Actions" para testes ou atualizações imediatas
+  # Permite que você rode manualmente pela aba "Actions"
   workflow_dispatch:
 
 # Tarefas a serem executadas
 jobs:
   update-readme-with-activity:
-    # Nome da tarefa, visível na interface do GitHub Actions
     name: Update README with recent activity
-    
-    # Sistema operacional onde a tarefa vai rodar
     runs-on: ubuntu-latest
-
-    # Passos que a tarefa irá executar em sequência
     steps:
-      # Passo 1: Clona o repositório
-      # A Action precisa ter acesso aos arquivos do repositório para poder editá-los.
+      # Passo 1: Clona o repositório para a Action ter acesso aos arquivos
       - name: Checkout repo
         uses: actions/checkout@v4
 
       # Passo 2: Roda a Action que busca a atividade e atualiza o README
-      # Este é o coração da automação.
       - name: Update README with recent activity
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          # O feed de onde buscar as atividades. Para organizações, é o link .atom.
+          # O feed de onde buscar as atividades
           feed_list: "https://github.com/Vytruve.atom"
           
-          # O caminho EXATO para o arquivo README.md a ser atualizado.
-          # Este é o ajuste mais importante para a sua estrutura.
+          # O caminho EXATO para o arquivo README.md
           readme_path: 'profile/README.md'
           
-          # Número máximo de itens de atividade a serem listados.
+          # ==================================================================
+          # A CORREÇÃO ESTÁ AQUI
+          # Especifica o nome da tag que a Action deve procurar no README.
+          # ==================================================================
+          comment_tag_name: "activity"
+          
+          # Número máximo de itens de atividade a serem listados
           max_post_count: 5
           
-          # O modelo de como cada linha de atividade será formatada.
-          # Usei emojis relacionados a desenvolvimento e inovação.
+          # O modelo de como cada linha de atividade será formatada
           template: |
             $newline - $randomEmoji(🚀,✨,💡,🔧,⚙️) [$title]($url)
             
-          # Mensagem de commit que aparecerá no histórico do repositório.
+          # Mensagem de commit que aparecerá no histórico do repositório
           commit_message: "chore(docs): update recent org activity in README"
