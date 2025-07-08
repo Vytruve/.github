@@ -3,8 +3,23 @@
                                                              BEM-VINDO AO ECOSSISTEMA VYTRUVE
 ================================================================================================================================================================
 -->
+<!-- Bloco da Logo com Fundo Animado -->
+<div align="center" style="
+  background-image: url('https://i.pinimg.com/originals/8a/34/84/8a34844799e4a7c145b3450a4e20a1d2.gif'); 
+  background-size: cover; 
+  background-position: center; 
+  border-radius: 15px; 
+  padding: 40px 20px; 
+  max-width: 900px; 
+  margin-left: auto; 
+  margin-right: auto;
+  border: 1px solid #4a2d66;
+  box-shadow: 0 0 20px rgba(138, 52, 235, 0.4);
+">
+  <img src="vytruve-logo.svg" alt="Vytruve Logo" width="150"/>
+</div>
+
 <div align="center">
-  <img src="vytruve-logo.svg" alt="Vytruve Logo" width="100"/>
   <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=58A6FF¢er=true&vCenter=true&width=800&lines=Vytruve;Engenharia+de+Software;Intelig%C3%AAncia+Artificial;Tecnologia+Embarcada" alt="Vytruve Typing SVG"></a>
   </h1>
@@ -137,6 +152,18 @@ Nossa missão é ir além do convencional, desenvolvendo soluções que não ape
     </tr>
   </table>
 </div>
+
+<br>
+
+<!--
+================================================================================================================================================================
+                                                                    ATIVIDADE RECENTE
+================================================================================================================================================================
+-->
+## 📈 Atividade Recente
+<!--START_SECTION:activity-->
+<!-- A atividade recente da organização será inserida aqui automaticamente -->
+<!--END_SECTION:activity-->
 
 <br>
 
