@@ -21,8 +21,12 @@
 
 <div align="center">
   <h1 align="center">
-    <!-- A CORREÇÃO ESTÁ NA URL ABAIXO -->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=9f55ff¢er=true&vCenter=true&width=800&lines=Vytruve;Engenharia+de+Software;Intelig%C3%AAncia+Artificial;Tecnologia+Embarcada" alt="Vytruve Typing SVG"></a>
+    <!-- 
+      A CORREÇÃO ESTÁ NA URL ABAIXO:
+      1. 'center=true' está correto.
+      2. Adicionado '&cache_buster=1' para forçar o GitHub a carregar a nova imagem.
+    -->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=9f55ff¢er=true&vCenter=true&width=800&lines=Vytruve;Engenharia+de+Software;Intelig%C3%AAncia+Artificial;Tecnologia+Embarcada&cache_buster=1" alt="Vytruve Typing SVG"></a>
   </h1>
   <p align="center">
     <strong>Moldando o futuro com código, criatividade e inteligência.</strong>
