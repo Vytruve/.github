@@ -1,52 +1,20 @@
-# Nome do Workflow que aparecerá na aba "Actions"
 name: Update README with Recent Activity
-
-# Gatilhos: definem quando a Action deve rodar
 on:
-  # Roda automaticamente em um cronograma (a cada 4 horas)
   schedule:
-    - cron: "0 */4 * * *"
-  
-  # Permite que você rode o workflow manualmente pela interface do GitHub
+    - cron: '*/30 * * * *' # Roda a cada 30 minutos
   workflow_dispatch:
-
-# Tarefas a serem executadas
 jobs:
   build:
-    # O nome do job que aparecerá na interface
-    name: Update README
-    
-    # O tipo de máquina virtual onde o job vai rodar
     runs-on: ubuntu-latest
-
-    # Sequência de passos que o job executará
+    name: Update README
     steps:
-      # Passo 1: Clona o seu repositório para a máquina virtual
-      # Isso é necessário para que a Action possa editar os arquivos
-      - uses: actions/checkout@v4
-
-      # Passo 2: Roda a Action principal que busca a atividade e atualiza o arquivo
+      - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          # O caminho exato para o seu arquivo README.md
-          # Este é o ajuste mais importante para a sua estrutura.
-          readme_path: "profile/README.md"
-          
-          # URL do feed de atividades públicas da organização Vytruve
           feed_list: "https://github.com/Vytruve.atom"
-          
-          # Número máximo de atividades recentes a serem listadas
           max_post_count: 5
-          
-          # O formato de cada linha na lista de atividades
-          template: "- $title"
-          
-          # A tag de comentário no README que será substituída pela lista
-          # Deve corresponder a <!--START_SECTION:activity-->
-          comment_tag_name: "activity"
-          
-          # A mensagem que aparecerá no commit automático
-          commit_message: "chore: Update recent activity feed"
-          
-          # O formato da data para cada item da lista
+          readme_path: './README.md'
+          template: |
+            $newline - $randomEmoji(💯,🔥,💫,🚀,💡) [$title]($url)
           date_format: "dd/mm/yyyy"
+          commit_message: "chore: update recent activity"
