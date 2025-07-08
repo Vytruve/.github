@@ -161,10 +161,9 @@ Nossa missão é ir além do convencional, desenvolvendo soluções que não ape
 ================================================================================================================================================================
 -->
 ## 📈 Atividade Recente
-<!--START_SECTION:activity-->
+<!-- activity:START -->
 <!-- A atividade recente da organização será inserida aqui automaticamente -->
-<!--END_SECTION:activity-->
-
+<!-- activity:END -->
 <br>
 
 <!-- 
