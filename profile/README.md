@@ -123,131 +123,101 @@
   <p>Uma equipe multidisciplinar unida pela paixão por criar o impossível: Engenheiros de Software, IA, Segurança, APIs, Servidores e Front-end.</p>
 </div>
 
-<table width="100%" align="center" style="border: none; max-width: 950px;">
+<table width="100%" align="center" style="border: none; max-width: 1000px;">
   <!-- PRIMEIRA LINHA DE MEMBROS -->
   <tr align="center" style="border: none;">
     <!-- Pedro H. Garcia -->
-    <td width="25%" style="padding: 10px; border: none; vertical-align: top;">
-      <div style="height: 100%; background: #1c1c1c; border: 1px solid #9f55ff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px rgba(159, 85, 255, 0.4); display: flex; flex-direction: column; align-items: center; justify-content: space-between;">
-        <a href="https://github.com/phkaiser13">
-          <img src="https://github.com/phkaiser13.png?size=120" style="border-radius: 50%; width: 110px; height: 110px;" alt="Pedro Henrique Garcia">
-        </a>
+    <td width="33%" style="padding: 10px; border: none; vertical-align: top;">
+      <div style="height: 100%; background: rgba(40, 42, 54, 0.6); border: 1px solid rgba(255, 255, 255, 0.2); border-radius: 15px; padding: 25px; box-shadow: 0 0 20px rgba(159, 85, 255, 0.4); display: flex; flex-direction: column; align-items: center; text-align: center;">
+        <a href="https://github.com/phkaiser13"><img src="https://github.com/phkaiser13.png?size=120" style="border-radius: 50%; width: 100px; height: 100px;" alt="Pedro Henrique Garcia"></a>
+        <div style="margin-top: 15px;"><b>Pedro H. Garcia</b><br><small>Founder, Lead AI & Software Engineer</small></div>
+        <p style="font-size: 13px; color: #ccc; flex-grow: 1; margin-top: 15px;"><i>"Transformo ideias complexas em soluções práticas, conectando o físico ao digital com IA."</i></p>
         <div style="margin-top: 15px;">
-          <b>Pedro H. Garcia</b><br>
-          <small>Founder, Lead AI & Software Engineer</small>
-        </div>
-        <div style="margin-top: auto; padding-top: 15px;">
-          <a href="https://linkedin.com" target="_blank"><img src="https://img.icons8.com/fluency/32/linkedin.png" alt="LinkedIn" width="28"></a>
-           
+          <a href="https://linkedin.com" target="_blank"><img src="https://img.icons8.com/fluency/32/linkedin.png" alt="LinkedIn" width="28"></a> 
           <a href="https://vytruve.org/team/pedro-h-garcia" target="_blank"><img src="vytruve-logo.svg" alt="Vytruve Profile" width="28"></a>
         </div>
       </div>
     </td>
     <!-- Vitor Hugo Lemos -->
-    <td width="25%" style="padding: 10px; border: none; vertical-align: top;">
-      <div style="height: 100%; background: #1c1c1c; border: 1px solid #58A6FF; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px rgba(88, 166, 255, 0.3); display: flex; flex-direction: column; align-items: center; justify-content: space-between;">
-        <a href="https://github.com/Vitorhlem">
-          <img src="https://github.com/Vitorhlem.png?size=120" style="border-radius: 50%; width: 110px; height: 110px;" alt="Vitor Hugo Lemos">
-        </a>
+    <td width="33%" style="padding: 10px; border: none; vertical-align: top;">
+      <div style="height: 100%; background: rgba(40, 42, 54, 0.6); border: 1px solid rgba(255, 255, 255, 0.2); border-radius: 15px; padding: 25px; box-shadow: 0 0 20px rgba(88, 166, 255, 0.3); display: flex; flex-direction: column; align-items: center; text-align: center;">
+        <a href="https://github.com/Vitorhlem"><img src="https://github.com/Vitorhlem.png?size=120" style="border-radius: 50%; width: 100px; height: 100px;" alt="Vitor Hugo Lemos"></a>
+        <div style="margin-top: 15px;"><b>Vitor Hugo Lemos</b><br><small>Software Architect</small></div>
+        <p style="font-size: 13px; color: #ccc; flex-grow: 1; margin-top: 15px;"><i>"Construo as fundações robustas e escaláveis sobre as quais grandes sistemas são erguidos."</i></p>
         <div style="margin-top: 15px;">
-          <b>Vitor Hugo Lemos</b><br>
-          <small>Software Architect</small>
-        </div>
-        <div style="margin-top: auto; padding-top: 15px;">
           <a href="https://linkedin.com" target="_blank"><img src="https://img.icons8.com/fluency/32/linkedin.png" alt="LinkedIn" width="28"></a>
         </div>
       </div>
     </td>
     <!-- Antonio Meloni -->
-    <td width="25%" style="padding: 10px; border: none; vertical-align: top;">
-      <div style="height: 100%; background: #1c1c1c; border: 1px solid #58A6FF; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px rgba(88, 166, 255, 0.3); display: flex; flex-direction: column; align-items: center; justify-content: space-between;">
-        <a href="https://github.com/TobiKamui26">
-          <img src="https://github.com/TobiKamui26.png?size=120" style="border-radius: 50%; width: 110px; height: 110px;" alt="Antonio Meloni">
-        </a>
+    <td width="33%" style="padding: 10px; border: none; vertical-align: top;">
+      <div style="height: 100%; background: rgba(40, 42, 54, 0.6); border: 1px solid rgba(255, 255, 255, 0.2); border-radius: 15px; padding: 25px; box-shadow: 0 0 20px rgba(88, 166, 255, 0.3); display: flex; flex-direction: column; align-items: center; text-align: center;">
+        <a href="https://github.com/TobiKamui26"><img src="https://github.com/TobiKamui26.png?size=120" style="border-radius: 50%; width: 100px; height: 100px;" alt="Antonio Meloni"></a>
+        <div style="margin-top: 15px;"><b>Antonio Meloni</b><br><small>Software Developer</small></div>
+        <p style="font-size: 13px; color: #ccc; flex-grow: 1; margin-top: 15px;"><i>"Escrevo códigos limpos e eficientes que dão vida às funcionalidades do projeto."</i></p>
         <div style="margin-top: 15px;">
-          <b>Antonio Meloni</b><br>
-          <small>Software Developer</small>
-        </div>
-        <div style="margin-top: auto; padding-top: 15px;">
-          <a href="https://linkedin.com" target="_blank"><img src="https://img.icons8.com/fluency/32/linkedin.png" alt="LinkedIn" width="28"></a>
-           
+          <a href="https://linkedin.com" target="_blank"><img src="https://img.icons8.com/fluency/32/linkedin.png" alt="LinkedIn" width="28"></a> 
           <a href="https://vytruve.org/team/antonio-meloni" target="_blank"><img src="vytruve-logo.svg" alt="Vytruve Profile" width="28"></a>
-        </div>
-      </div>
-    </td>
-    <!-- Pedro Borges -->
-    <td width="25%" style="padding: 10px; border: none; vertical-align: top;">
-      <div style="height: 100%; background: #1c1c1c; border: 1px solid #58A6FF; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px rgba(88, 166, 255, 0.3); display: flex; flex-direction: column; align-items: center; justify-content: space-between;">
-        <a href="https://github.com/pedroborgesdev">
-          <img src="https://github.com/pedroborgesdev.png?size=120" style="border-radius: 50%; width: 110px; height: 110px;" alt="Pedro Borges">
-        </a>
-        <div style="margin-top: 15px;">
-          <b>Pedro F. Borges</b><br>
-          <small>Software Developer</small>
-        </div>
-        <div style="margin-top: auto; padding-top: 15px;">
-          <a href="https://linkedin.com" target="_blank"><img src="https://img.icons8.com/fluency/32/linkedin.png" alt="LinkedIn" width="28"></a>
-           
-          <a href="https://vytruve.org/team/pedro-f-borges" target="_blank"><img src="vytruve-logo.svg" alt="Vytruve Profile" width="28"></a>
         </div>
       </div>
     </td>
   </tr>
   <!-- SEGUNDA LINHA DE MEMBROS -->
   <tr align="center" style="border: none;">
-    <!-- Kauã Fernando -->
-    <td width="25%" style="padding: 10px; border: none; vertical-align: top;">
-      <div style="height: 100%; background: #1c1c1c; border: 1px solid #58A6FF; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px rgba(88, 166, 255, 0.3); display: flex; flex-direction: column; align-items: center; justify-content: space-between;">
-        <a href="https://github.com/Kaua404">
-          <img src="https://github.com/Kaua404.png?size=120" style="border-radius: 50%; width: 110px; height: 110px;" alt="Kauã Fernando">
-        </a>
+    <!-- Pedro Borges -->
+    <td width="33%" style="padding: 10px; border: none; vertical-align: top;">
+      <div style="height: 100%; background: rgba(40, 42, 54, 0.6); border: 1px solid rgba(255, 255, 255, 0.2); border-radius: 15px; padding: 25px; box-shadow: 0 0 20px rgba(88, 166, 255, 0.3); display: flex; flex-direction: column; align-items: center; text-align: center;">
+        <a href="https://github.com/pedroborgesdev"><img src="https://github.com/pedroborgesdev.png?size=120" style="border-radius: 50%; width: 100px; height: 100px;" alt="Pedro Borges"></a>
+        <div style="margin-top: 15px;"><b>Pedro F. Borges</b><br><small>Software Developer</small></div>
+        <p style="font-size: 13px; color: #ccc; flex-grow: 1; margin-top: 15px;"><i>"Focado em criar experiências de usuário fluidas e resolver problemas com lógica e criatividade."</i></p>
         <div style="margin-top: 15px;">
-          <b>Kauã Fernando</b><br>
-          <small>Embedded Systems Specialist</small>
+          <a href="https://linkedin.com" target="_blank"><img src="https://img.icons8.com/fluency/32/linkedin.png" alt="LinkedIn" width="28"></a> 
+          <a href="https://vytruve.org/team/pedro-f-borges" target="_blank"><img src="vytruve-logo.svg" alt="Vytruve Profile" width="28"></a>
         </div>
-        <div style="margin-top: auto; padding-top: 15px;">
-          <a href="https://linkedin.com" target="_blank"><img src="https://img.icons8.com/fluency/32/linkedin.png" alt="LinkedIn" width="28"></a>
-           
+      </div>
+    </td>
+    <!-- Kauã Fernando -->
+    <td width="33%" style="padding: 10px; border: none; vertical-align: top;">
+      <div style="height: 100%; background: rgba(40, 42, 54, 0.6); border: 1px solid rgba(255, 255, 255, 0.2); border-radius: 15px; padding: 25px; box-shadow: 0 0 20px rgba(88, 166, 255, 0.3); display: flex; flex-direction: column; align-items: center; text-align: center;">
+        <a href="https://github.com/Kaua404"><img src="https://github.com/Kaua404.png?size=120" style="border-radius: 50%; width: 100px; height: 100px;" alt="Kauã Fernando"></a>
+        <div style="margin-top: 15px;"><b>Kauã Fernando</b><br><small>Embedded Systems Specialist</small></div>
+        <p style="font-size: 13px; color: #ccc; flex-grow: 1; margin-top: 15px;"><i>"Especialista em otimizar o hardware ao máximo, onde cada byte e ciclo de clock contam."</i></p>
+        <div style="margin-top: 15px;">
+          <a href="https://linkedin.com" target="_blank"><img src="https://img.icons8.com/fluency/32/linkedin.png" alt="LinkedIn" width="28"></a> 
           <a href="https://vytruve.org/team/kaua-fernando" target="_blank"><img src="vytruve-logo.svg" alt="Vytruve Profile" width="28"></a>
         </div>
       </div>
     </td>
     <!-- Ryan Silva -->
-    <td width="25%" style="padding: 10px; border: none; vertical-align: top;">
-      <div style="height: 100%; background: #1c1c1c; border: 1px solid #58A6FF; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px rgba(88, 166, 255, 0.3); display: flex; flex-direction: column; align-items: center; justify-content: space-between;">
-        <a href="https://github.com/RyanDsil1">
-          <img src="https://github.com/RyanDsil1.png?size=120" style="border-radius: 50%; width: 110px; height: 110px;" alt="Ryan Silva">
-        </a>
+    <td width="33%" style="padding: 10px; border: none; vertical-align: top;">
+      <div style="height: 100%; background: rgba(40, 42, 54, 0.6); border: 1px solid rgba(255, 255, 255, 0.2); border-radius: 15px; padding: 25px; box-shadow: 0 0 20px rgba(88, 166, 255, 0.3); display: flex; flex-direction: column; align-items: center; text-align: center;">
+        <a href="https://github.com/RyanDsil1"><img src="https://github.com/RyanDsil1.png?size=120" style="border-radius: 50%; width: 100px; height: 100px;" alt="Ryan Silva"></a>
+        <div style="margin-top: 15px;"><b>Ryan Silva</b><br><small>Software Engineer</small></div>
+        <p style="font-size: 13px; color: #ccc; flex-grow: 1; margin-top: 15px;"><i>"Apaixonado por construir ferramentas e sistemas que resolvem problemas do mundo real."</i></p>
         <div style="margin-top: 15px;">
-          <b>Ryan Silva</b><br>
-          <small>Software Engineer</small>
-        </div>
-        <div style="margin-top: auto; padding-top: 15px;">
-          <a href="https://linkedin.com" target="_blank"><img src="https://img.icons8.com/fluency/32/linkedin.png" alt="LinkedIn" width="28"></a>
-           
+          <a href="https://linkedin.com" target="_blank"><img src="https://img.icons8.com/fluency/32/linkedin.png" alt="LinkedIn" width="28"></a> 
           <a href="https://vytruve.org/team/ryan-silva" target="_blank"><img src="vytruve-logo.svg" alt="Vytruve Profile" width="28"></a>
         </div>
       </div>
     </td>
+  </tr>
+  <!-- TERCEIRA LINHA DE MEMBROS -->
+  <tr align="center" style="border: none;">
     <!-- João P. Marim -->
-    <td width="25%" style="padding: 10px; border: none; vertical-align: top;">
-      <div style="height: 100%; background: #1c1c1c; border: 1px solid #58A6FF; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px rgba(88, 166, 255, 0.3); display: flex; flex-direction: column; align-items: center; justify-content: space-between;">
-        <a href="https://github.com/JaozinZzn">
-          <img src="https://github.com/JaozinZzn.png?size=120" style="border-radius: 50%; width: 110px; height: 110px;" alt="João P. Marim">
-        </a>
+    <td width="33%" style="padding: 10px; border: none; vertical-align: top;">
+      <div style="height: 100%; background: rgba(40, 42, 54, 0.6); border: 1px solid rgba(255, 255, 255, 0.2); border-radius: 15px; padding: 25px; box-shadow: 0 0 20px rgba(88, 166, 255, 0.3); display: flex; flex-direction: column; align-items: center; text-align: center;">
+        <a href="https://github.com/JaozinZzn"><img src="https://github.com/JaozinZzn.png?size=120" style="border-radius: 50%; width: 100px; height: 100px;" alt="João P. Marim"></a>
+        <div style="margin-top: 15px;"><b>João P. Marim</b><br><small>Software Developer</small></div>
+        <p style="font-size: 13px; color: #ccc; flex-grow: 1; margin-top: 15px;"><i>"Focado em desenvolver soluções criativas e garantir a qualidade em cada linha de código."</i></p>
         <div style="margin-top: 15px;">
-          <b>João P. Marim</b><br>
-          <small>Software Developer</small>
-        </div>
-        <div style="margin-top: auto; padding-top: 15px;">
-          <a href="https://linkedin.com" target="_blank"><img src="https://img.icons8.com/fluency/32/linkedin.png" alt="LinkedIn" width="28"></a>
-           
+          <a href="https://linkedin.com" target="_blank"><img src="https://img.icons8.com/fluency/32/linkedin.png" alt="LinkedIn" width="28"></a> 
           <a href="https://vytruve.org/team/jao-pedro" target="_blank"><img src="vytruve-logo.svg" alt="Vytruve Profile" width="28"></a>
         </div>
       </div>
     </td>
-    <!-- Célula Vazia para Alinhamento -->
-    <td width="25%" style="padding: 10px; border: none;"></td>
+    <!-- Células Vazias para Alinhamento -->
+    <td width="33%" style="padding: 10px; border: none;"></td>
+    <td width="33%" style="padding: 10px; border: none;"></td>
   </tr>
 </table>
 
@@ -255,7 +225,7 @@
 
 <div align="center">
   <a href="https://vytruve.org/team" target="_blank">
-    <img src="https://img.shields.io/badge/Conheça_toda_a_Equipe-9f55ff?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xNiAxMWMxLjY2IDAgMi45OS0xLjM0IDIuOTktM0M4Ljk5IDYgMTcuNjYgNSA5IDVjMCAxLjY2IDEuMzQgMyAzIDNoLTJjLTEuMSAwLTIgLjktMiAydjJjMCAxLjEuOSAyIDIgMmg4ek05IDhjLjU1IDAgMS0uNDUgMS0xcy0uNDUtMS0xLTEtMSAuNDUtMSAxIC40NSAxIDEgMXptNiAwYy41NSAwIDEtLjQ1IDEtMXMtLjQ1LTEtMS0xLTEgLjQ1LTEgMSAuNDUgMSAxIDF6bS0zIDRjLTIuMzQgMC03IDEuMTctNyA1djJoMTR2LTJjMC0zLjgzLTQuNjYtNS03LTV6bS01IDRoMy4zOGMtLjM1LS4yOC0uNjUtLjYxLS44OC0xSDR2LjVjMC0uNTIgMi41Ni0xLjUgNS0xLjV6bTExIDBoLTQuMzhjLS4yMy4zOS0uNTMgLjcyLS44OCAxSDIwdi0uNWMwLS41Mi0yLjU1LTEuNS01LTEuNXoiLz48L3N2Zz4=&logoColor=white" alt="Conheça a Equipe">
+    <img src="https://img.shields.io/badge/Conheça_toda_a_Equipe-9f55ff?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xNiAxMWMxLjY2IDAgMi45OS0xLjM0IDIuOTktM0M4Ljk5IDYgMTcuNjYgNSA5IDVjMCAxLjY2IDEuMzQgMyAzIDNoLTJjLTEuMSAwLTIgLjktMiAydjJjMCAxLjEuOSAyIDIgMmg4ek05IDhjLjU1IDAgMS0uNDUgMS0xcy0uNDUtMS0xLTEtMSAuNDUtMSAxIC40NSAxIDEgMXptNiAwYy41NSAwIDEtLjQ1IDEtMXMtLjQ1LTEtMS0xLTEgLjQ1LTEgMSAuNDUgMSAxIDF6bS0zIDRjLTIuMzQgMC03IDEuMTctNyA1djJoMTR2LTJjMC0zLjgzLTQuNjYtNS03LTV6bS01IDRoMy4zOGMtLjM1LS4yOC0uNjUtLjYxLS44OC0xSDR2LjVjMC0uNTIgMi4yNC0xLjUgNS0xLjV6bTExIDBoLTQuMzhjLS4yMy4zOS0uNTMuNzItLjg4IDESDIwdi0uNWMwLS41Mi0yLjI0LTEuNS01LTEuNXoiLz48L3N2Zz4=&logoColor=white" alt="Conheça a Equipe">
   </a>
 </div>
 
