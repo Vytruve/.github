@@ -132,7 +132,7 @@
         <small>Founder, Lead AI & Software Engineer</small>
         <p style="margin-top: 8px;">
           <a href="https://linkedin.com" target="_blank"><img src="https://img.icons8.com/color/32/linkedin.png" alt="LinkedIn" width="24"></a>
-          <a href="https://vytruve.org/team/pedro-h-garcia" target="_blank"><img src=".vytruve-logo.svg" alt="Vytruve Profile" width="24"></a>
+          <a href="https://vytruve.org/team/pedro-h-garcia" target="_blank"><img src="vytruve-logo.svg" alt="Vytruve Profile" width="24"></a>
         </p>
       </td>
       <!-- Vitor Hugo Lemos -->
@@ -159,7 +159,7 @@
         <small>Software Developer</small>
         <p style="margin-top: 8px;">
           <a href="https://linkedin.com" target="_blank"><img src="https://img.icons8.com/color/32/linkedin.png" alt="LinkedIn" width="24"></a>
-          <a href="https://vytruve.org/team/antonio-meloni" target="_blank"><img src=".vytruve-logo.svg" alt="Vytruve Profile" width="24"></a>
+          <a href="https://vytruve.org/team/antonio-meloni" target="_blank"><img src="vytruve-logo.svg" alt="Vytruve Profile" width="24"></a>
         </p>
       </td>
       <!-- Pedro Borges -->
@@ -173,7 +173,7 @@
         <small>Software Developer</small>
         <p style="margin-top: 8px;">
           <a href="https://linkedin.com" target="_blank"><img src="https://img.icons8.com/color/32/linkedin.png" alt="LinkedIn" width="24"></a>
-          <a href="https://vytruve.org/team/pedro-f-borges" target="_blank"><img src=".vytruve-logo.svg" alt="Vytruve Profile" width="24"></a>
+          <a href="https://vytruve.org/team/pedro-f-borges" target="_blank"><img src="vytruve-logo.svg" alt="Vytruve Profile" width="24"></a>
         </p>
       </td>
     </tr>
@@ -190,7 +190,7 @@
         <small>Embedded Systems Specialist</small>
         <p style="margin-top: 8px;">
           <a href="https://linkedin.com" target="_blank"><img src="https://img.icons8.com/color/32/linkedin.png" alt="LinkedIn" width="24"></a>
-          <a href="https://vytruve.org/team/kaua-fernando" target="_blank"><img src=".vytruve-logo.svg" alt="Vytruve Profile" width="24"></a>
+          <a href="https://vytruve.org/team/kaua-fernando" target="_blank"><img src="vytruve-logo.svg" alt="Vytruve Profile" width="24"></a>
         </p>
       </td>
       <!-- Ryan Silva -->
@@ -204,7 +204,7 @@
         <small>Software Engineer</small>
         <p style="margin-top: 8px;">
           <a href="https://linkedin.com" target="_blank"><img src="https://img.icons8.com/color/32/linkedin.png" alt="LinkedIn" width="24"></a>
-          <a href="https://vytruve.org/team/ryan-silva" target="_blank"><img src=".vytruve-logo.svg" alt="Vytruve Profile" width="24"></a>
+          <a href="https://vytruve.org/team/ryan-silva" target="_blank"><img src="vytruve-logo.svg" alt="Vytruve Profile" width="24"></a>
         </p>
       </td>
       <!-- João P. Marim -->
@@ -218,7 +218,7 @@
         <small>Software Developer</small>
         <p style="margin-top: 8px;">
           <a href="https://linkedin.com" target="_blank"><img src="https://img.icons8.com/color/32/linkedin.png" alt="LinkedIn" width="24"></a>
-          <a href="https://vytruve.org/team/jao-pedro" target="_blank"><img src=".vytruve-logo.svg" alt="Vytruve Profile" width="24"></a>
+          <a href="https://vytruve.org/team/jao-pedro" target="_blank"><img src="vytruve-logo.svg" alt="Vytruve Profile" width="24"></a>
         </p>
       </td>
     </tr>
