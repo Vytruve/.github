@@ -1,236 +1,201 @@
 <!-- 
 ================================================================================================================================================================
-                                                             BEM-VINDO À VYTRUVE
+                                                             BEM-VINDO AO ECOSSISTEMA VYTRUVE
 ================================================================================================================================================================
 -->
 <div align="center">
-  <!-- SUBSTITUA PELA URL DO LOGOTIPO OFICIAL DA VYTRUVE -->
-  <img src="https://img.icons8.com/fluency/128/v-symbol.png" alt="Vytruve Logo" width="120">
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=58A6FF¢er=true&vCenter=true&width=800&lines=Vytruve;Engenharia+de+Software+%7C+Intelig%C3%AAncia+Artificial+%7C+Sistemas+Embarcados" alt="Vytruve Typing SVG">
-  </a>
-  
-  <p><strong>Moldando o futuro com código, criatividade e inteligência.</strong></p>
-
-  <div>
-    <a href="mailto:vytruve.contact@gmail.com"><img src="https://img.shields.io/badge/Contato-Email-informational?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://vytruve.org"><img src="https://img.shields.io/badge/Nosso-Site-blue?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-    <!-- ADICIONE O LINK DO LINKEDIN QUANDO ESTIVER PRONTO -->
-    <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Em_Breve-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  </div>
+  <img src="https://img.icons8.com/fluency/128/v-symbol.png" alt="Vytruve Logo" width="100"/>
+  <h1 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=58A6FF¢er=true&vCenter=true&width=800&lines=Vytruve;Engenharia+de+Software;Intelig%C3%AAncia+Artificial;Tecnologia+Embarcada" alt="Vytruve Typing SVG"></a>
+  </h1>
+  <p align="center">
+    <strong>Moldando o futuro com código, criatividade e inteligência.</strong>
+  </p>
 </div>
 
 <!-- 
 ================================================================================================================================================================
-                                                                  SEPARADOR ANIMADO
+                                                                      SOBRE NÓS
 ================================================================================================================================================================
 -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vytruve/.github/main/profile/assets/animated-line.gif" width="100%">
-</p>
+## 🔮 Sobre Nós
+
+A **Vytruve** é um coletivo de engenheiros e inovadores dedicados a transformar desafios complexos em soluções tecnológicas de ponta. Atuamos na vanguarda da engenharia de software, inteligência artificial e sistemas embarcados, criando produtos que redefinem indústrias e capacitam pessoas.
+
+Nossa missão é ir além do convencional, desenvolvendo soluções que não apenas resolvem problemas, mas também inspiram o futuro.
+
+> **Nosso Mantra:** _"Inovação como princípio, excelência como resultado."_
+
+<br>
 
 <!-- 
 ================================================================================================================================================================
-                                                                NOSSOS PILARES
+                                                                  NOSSAS DIVISÕES
 ================================================================================================================================================================
 -->
-<h2 align="center">
-  <img src="https://img.icons8.com/fluency/48/pillar.png" alt="Pilar" style="vertical-align: middle;"/>
-  Nossos Pilares de Atuação
-</h2>
-
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/96/external-artificial-intelligence-automation-flaticons-flat-flat-icons-2.png" alt="Inteligência Artificial"/>
-      <h3>Inteligência Artificial</h3>
-      <p align="center">Desenvolvemos e implementamos modelos de IA para visão computacional, NLP e automação inteligente, incluindo soluções embarcadas de alta eficiência.</p>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <img src="https://img.icons8.com/fluency/96/software-development.png" alt="Desenvolvimento de Software"/>
-      <h3>Engenharia de Software</h3>
-      <p align="center">Criamos sistemas corporativos (ERP, CRM), plataformas web escaláveis e APIs robustas, com foco em arquitetura limpa e performance.</p>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <img src="https://img.icons8.com/fluency/96/raspberry-pi.png" alt="Sistemas Embarcados"/>
-      <h3>Sistemas Embarcados & IoT</h3>
-      <p align="center">Projetamos soluções de hardware e firmware para a Internet das Coisas, otimizando performance e recursos em microcontroladores como ESP32, STM32 e mais.</p>
-    </td>
-  </tr>
-</table>
-
-<!-- 
-================================================================================================================================================================
-                                                                PROJETOS EM DESTAQUE
-================================================================================================================================================================
--->
-<h2 align="center">
-  <img src="https://img.icons8.com/fluency/48/project.png" alt="Projeto" style="vertical-align: middle;"/>
-  Projetos em Destaque
-</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>👁️ Trackie — Assistente Visual Inteligente</h3>
-        <a href="https://vytruve.org/vy-ai/" target="_blank">
-          <!-- ADICIONE UM GIF OU IMAGEM DO TRACKIE AQUI -->
-          <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/128/external-bionic-eye-artificial-intelligence-flaticons-flat-flat-icons.png" alt="Trackie Logo"/>
-        </a>
-        <p>Uma plataforma de tecnologia assistiva que utiliza IA embarcada para democratizar o acesso à informação para pessoas com deficiência visual.</p>
-        <a href="https://vytruve.org/vy-ai/" target="_blank">
-          <img src="https://img.shields.io/badge/Ver_Projeto-2f80ed?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQTEwIDEwIDAgMSAwIDEyIDIyQTEwIDEwIDAgMCAwIDEyIDJ6bTAgMThhOCA4IDAgMSAxIDAtMTYgOCA4IDAgMCAxIDAgMTZ6bS0xLTExaDJ2NmgxLjVMMTIgMTlsLTMuNS00SDl6Ii8+PC9zdmc+&logoColor=white" alt="Ver Projeto"/>
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>⚙️ VersEia, Loria & Storia — ERPs Inteligentes</h3>
-        <a href="https://vytruve.org/truve-software/" target="_blank">
-          <!-- ADICIONE UM GIF OU IMAGEM DOS ERPs AQUI -->
-          <img src="https://img.icons8.com/fluency/128/gear.png" alt="ERPs Logo"/>
-        </a>
-        <p>Suíte de sistemas (ERP, RH, Estoque) projetada com foco em escalabilidade, segurança e simplicidade para otimizar a gestão empresarial.</p>
-        <a href="https://vytruve.org/truve-software/" target="_blank">
-          <img src="https://img.shields.io/badge/Ver_Projeto-f2994a?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQTEwIDEwIDAgMSAwIDEyIDIyQTEwIDEwIDAgMCAwIDEyIDJ6bTAgMThhOCA4IDAgMSAxIDAtMTYgOCA4IDAgMCAxIDAgMTZ6bS0xLTExaDJ2NmgxLjVMMTIgMTlsLTMuNS00SDl6Ii8+PC9zdmc+&logoColor=white" alt="Ver Projeto"/>
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<!-- 
-================================================================================================================================================================
-                                                                NOSSO ARSENAL TECNOLÓGICO
-================================================================================================================================================================
--->
-<h2 align="center">
-  <img src="https://img.icons8.com/fluency/48/toolbox.png" alt="Arsenal" style="vertical-align: middle;"/>
-  Nosso Arsenal Tecnológico
-</h2>
-
-<div align="center">
-  <details>
-    <summary><b>Linguagens & Plataformas</b></summary>
-    <p align="center">
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    </p>
-  </details>
-  <details>
-    <summary><b>IA, Frameworks & Ferramentas</b></summary>
-    <p align="center">
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    </p>
-  </details>
-  <details>
-    <summary><b>Hardware & Embarcados</b></summary>
-    <p align="center">
-      <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-      <img src="https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-      <img src="https://img.shields.io/badge/STM32-034264?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-    </p>
-  </details>
-</div>
-
-<!-- 
-================================================================================================================================================================
-                                                                CONHEÇA A EQUIPE
-================================================================================================================================================================
--->
-<h2 align="center">
-  <img src="https://img.icons8.com/fluency/48/group.png" alt="Equipe" style="vertical-align: middle;"/>
-  Conheça os Arquitetos da Inovação
-</h2>
+## 🚀 Nossas Divisões de Inovação
 
 <p align="center">
-  <strong>(Substitua os [USERNAME] pelos nomes de usuário corretos do GitHub para carregar as fotos)</strong>
+  Conheça os pilares que sustentam nossa tecnologia e impulsionam o progresso.
 </p>
 
-<table align="center" cellspacing="0" cellpadding="10">
+<table width="100%" align="center">
   <tr align="center">
-    <td>
-      <a href="https://github.com/phkaiser13">
-        <img src="https://avatars.githubusercontent.com/u/104994723?v=4" width="100px;" alt="Pedro Henrique"/><br />
-        <sub><b>Pedro Henrique</b></sub>
-      </a><br />
-      <sub style="font-size:12px;">Eng. de Software & IA</sub>
+    <!-- TruveSoftware -->
+    <td width="33%" style="padding: 20px; border: none;">
+      <img src="https://img.icons8.com/fluency/96/gear.png" alt="TruveSoftware Icon" width="80">
+      <h3 style="color: #58A6FF; margin-bottom: 10px;">TruveSoftware</h3>
+      <p style="font-size: 14px;">Desenvolvemos sistemas corporativos (ERP, RH) e plataformas web robustas, seguras e escaláveis, com foco na simplicidade e na experiência do usuário.</p>
+      <a href="https://vytruve.org/truvesoftware" target="_blank" style="display: inline-block; padding: 12px 24px; border-radius: 8px; background: linear-gradient(90deg, #2f80ed, #56ccf2); text-decoration: none; color: #fff; font-weight: bold; transition: transform 0.2s;">
+        Explore Nossas Soluções
+      </a>
     </td>
-    <td>
-      <a href="https://github.com/[USERNAME_ANTONIO]">
-        <img src="https://avatars.githubusercontent.com/u/1?v=4" width="100px;" alt="Antonio"/><br />
-        <sub><b>Antonio</b></sub>
-      </a><br />
-      <sub style="font-size:12px;">Dev. de Software</sub>
+    <!-- vyAi -->
+    <td width="33%" style="padding: 20px; border: none;">
+      <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/96/external-bionic-eye-artificial-intelligence-flaticons-flat-flat-icons.png" alt="vyAi Icon" width="80">
+      <h3 style="color: #58A6FF; margin-bottom: 10px;">vyAi</h3>
+      <p style="font-size: 14px;">Criamos o futuro da tecnologia assistiva e da automação com IA. Especialistas em visão computacional, IA embarcada e modelos de linguagem (LLMs).</p>
+      <a href="https://vytruve.org/vy-ai" target="_blank" style="display: inline-block; padding: 12px 24px; border-radius: 8px; background: linear-gradient(90deg, #f2994a, #f2c94c); text-decoration: none; color: #fff; font-weight: bold; transition: transform 0.2s;">
+        Descubra a IA do Futuro
+      </a>
     </td>
-    <td>
-      <a href="https://github.com/[USERNAME_KAUA]">
-        <img src="https://avatars.githubusercontent.com/u/2?v=4" width="100px;" alt="Kauã"/><br />
-        <sub><b>Kauã</b></sub>
-      </a><br />
-      <sub style="font-size:12px;">Esp. em Embarcados</sub>
-    </td>
-    <td>
-      <a href="https://github.com/[USERNAME_RYAN]">
-        <img src="https://avatars.githubusercontent.com/u/3?v=4" width="100px;" alt="Ryan"/><br />
-        <sub><b>Ryan</b></sub>
-      </a><br />
-      <sub style="font-size:12px;">Eng. de IA</sub>
-    </td>
-    <td>
-      <a href="https://github.com/[USERNAME_VICTOR]">
-        <img src="https://avatars.githubusercontent.com/u/4?v=4" width="100px;" alt="Victor"/><br />
-        <sub><b>Victor</b></sub>
-      </a><br />
-      <sub style="font-size:12px;">Arquiteto de Software</sub>
-    </td>
-    <td>
-      <a href="https://github.com/[USERNAME_RAFAEL]">
-        <img src="https://avatars.githubusercontent.com/u/5?v=4" width="100px;" alt="Rafael"/><br />
-        <sub><b>Rafael</b></sub>
-      </a><br />
-      <sub style="font-size:12px;">Dev. Full-Stack</sub>
+    <!-- Vyst -->
+    <td width="33%" style="padding: 20px; border: none;">
+      <img src="https://img.icons8.com/fluency/96/server.png" alt="Vyst Icon" width="80">
+      <h3 style="color: #58A6FF; margin-bottom: 10px;">Vyst</h3>
+      <p style="font-size: 14px;">A base de tudo. Projetamos e gerenciamos a arquitetura de sistemas, infraestrutura e tecnologia embarcada que garantem a performance e a confiabilidade de nossos produtos.</p>
+      <a href="https://vytruve.org/vyst" target="_blank" style="display: inline-block; padding: 12px 24px; border-radius: 8px; background: linear-gradient(90deg, #bb6bd9, #a349d1); text-decoration: none; color: #fff; font-weight: bold; transition: transform 0.2s;">
+        Conheça Nossa Tecnologia
+      </a>
     </td>
   </tr>
 </table>
 
-<!-- 
-================================================================================================================================================================
-                                                                NOSSA FILOSOFIA
-================================================================================================================================================================
--->
-<h2 align="center">
-  <img src="https://img.icons8.com/fluency/48/mind-map.png" alt="Filosofia" style="vertical-align: middle;"/>
-  Nossa Filosofia
-</h2>
-
-> **Inovação como princípio, excelência como resultado.** Nossa cultura é fundamentada na curiosidade infinita e no pensamento disruptivo. Desafiamos o status quo para criar soluções que não apenas funcionam, mas que também inspiram e causam um impacto real e positivo. Acreditamos na colaboração radical como motor para as melhores ideias.
+<br>
 
 <!-- 
 ================================================================================================================================================================
-                                                                      RODAPÉ
+                                                                    NOSSA EQUIPE
 ================================================================================================================================================================
 -->
+## 👥 Os Arquitetos da Inovação
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vytruve/.github/main/profile/assets/animated-line.gif" width="100%">
+  Conheça as mentes por trás da Vytruve. Uma equipe multidisciplinar unida pela paixão por tecnologia.
+</p>
+
+<div align="center">
+  <table align="center" style="border: none; margin-left: auto; margin-right: auto;">
+    <tr style="border: none;">
+      <td style="padding: 15px; border: none; text-align: center;">
+        <a href="https://github.com/phkaiser13">
+          <img src="https://github.com/phkaiser13.png?size=120" style="border-radius: 50%; width: 120px; height: 120px; border: 3px solid #58A6FF;" alt="Pedro Henrique Garcia">
+        </a>
+        <br>
+        <b>Pedro H. Garcia</b>
+        <br>
+        <small>Founder, Lead AI & Software Engineer</small>
+      </td>
+      <td style="padding: 15px; border: none; text-align: center;">
+        <a href="https://github.com/Vitorhlem">
+          <img src="https://github.com/Vitorhlem.png?size=120" style="border-radius: 50%; width: 120px; height: 120px; border: 3px solid #58A6FF;" alt="Vitor Hugo Lemos">
+        </a>
+        <br>
+        <b>Vitor Hugo Lemos</b>
+        <br>
+        <small>Software Architect</small>
+      </td>
+      <td style="padding: 15px; border: none; text-align: center;">
+        <a href="https://github.com/TobiKamui26">
+          <img src="https://github.com/TobiKamui26.png?size=120" style="border-radius: 50%; width: 120px; height: 120px; border: 3px solid #58A6FF;" alt="Antonio">
+        </a>
+        <br>
+        <b>Antonio</b>
+        <br>
+        <small>Software Developer</small>
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td style="padding: 15px; border: none; text-align: center;">
+        <a href="https://github.com/pedroborgesdev">
+          <img src="https://github.com/pedroborgesdev.png?size=120" style="border-radius: 50%; width: 120px; height: 120px; border: 3px solid #58A6FF;" alt="Pedro Borges">
+        </a>
+        <br>
+        <b>Pedro Borges</b>
+        <br>
+        <small>Software Developer</small>
+      </td>
+      <td style="padding: 15px; border: none; text-align: center;">
+        <a href="https://github.com/Kaua404">
+          <img src="https://github.com/Kaua404.png?size=120" style="border-radius: 50%; width: 120px; height: 120px; border: 3px solid #58A6FF;" alt="Kauã">
+        </a>
+        <br>
+        <b>Kauã</b>
+        <br>
+        <small>Embedded Systems Specialist</small>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<!-- 
+================================================================================================================================================================
+                                                                ARSENAL TECNOLÓGICO
+================================================================================================================================================================
+-->
+## 🛠️ Nosso Arsenal Tecnológico
+
+<p align="center">
+  Utilizamos as ferramentas mais modernas e eficientes para construir o futuro.
 </p>
 
 <p align="center">
-  Pronto para transformar sua ideia em realidade? <strong><a href="mailto:vytruve.contact@gmail.com">Vamos conversar.</a></strong>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,cpp,c,java,swift,kotlin,rust,js,react,nodejs,docker,linux,raspberrypi,arduino,git&perline=9" />
+  </a>
+</p>
+
+<br>
+
+<!-- 
+================================================================================================================================================================
+                                                                    APOIE NOSSA MISSÃO
+================================================================================================================================================================
+-->
+## ❤️ Apoie Nossa Missão
+
+<div align="center" style="background-color: #1c1c1c; padding: 30px; border-radius: 15px;">
+  <h3 style="color: #FFFFFF; margin-top: 0;">Gostou do nosso trabalho?</h3>
+  <p style="color: #AAAAAA;">
+    Sua ajuda nos permite continuar inovando, desenvolvendo projetos open-source e criando tecnologias que fazem a diferença. Considere se tornar um apoiador!
+  </p>
+  <a href="https://www.patreon.com/c/VytruveOrg" target="_blank" style="display: inline-block; padding: 15px 30px; border-radius: 10px; background: #FF424D; text-decoration: none; color: #fff; font-weight: bold; font-size: 18px; transition: transform 0.2s;">
+    <img src="https://img.icons8.com/color/48/patreon.png" width="24" style="vertical-align: middle; margin-right: 10px;"/>
+    Apoie no Patreon
+  </a>
+</div>
+
+<br>
+
+<!-- 
+================================================================================================================================================================
+                                                                    VAMOS CONECTAR
+================================================================================================================================================================
+-->
+## 📬 Vamos Conectar
+
+<p align="center">
+  Pronto para transformar sua ideia em realidade? Fale conosco.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF¢er=true&vCenter=true&width=600&lines=Vytruve+%7C+Engenharia+para+o+Amanh%C3%A3" alt="Vytruve Footer SVG">
+  <a href="mailto:vytruve.contact@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+   
+  <a href="https://vytruve.org"><img src="https://img.shields.io/badge/Nosso_Site-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&background=000000¢er=true&vCenter=true&width=600&lines=Vytruve+%7C+Engenharia+para+o+Amanh%C3%A3" alt="Vytruve Footer SVG">
 </p>
