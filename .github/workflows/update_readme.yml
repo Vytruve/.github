@@ -13,7 +13,7 @@ jobs:
         with:
           feed_list: "https://github.com/Vytruve.atom"
           max_post_count: 5
-          readme_path: './README.md'
+          readme_path: 'profile/README.md'
           template: |
             $newline - $randomEmoji(💯,🔥,💫,🚀,💡) [$title]($url)
           date_format: "dd/mm/yyyy"
