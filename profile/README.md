@@ -199,7 +199,7 @@
     <td width="25%" style="padding: 10px; border: none; vertical-align: top;">
       <div style="height: 100%; background: #1c1c1c; border: 1px solid #58A6FF; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px rgba(88, 166, 255, 0.3); display: flex; flex-direction: column; align-items: center; justify-content: space-between;">
         <a href="https://github.com/Kaua404">
-           <img src="KAUA_FOTO.PNG" style="border-radius: 50%; width: 110px; height: 110px;" alt="Kauã Fernando">       
+           <img src="KAUA_FOTO.png" style="border-radius: 50%; width: 110px; height: 110px;" alt="Kauã Fernando">       
         </a>
         <div style="margin-top: 15px;">
           <b>Kauã Fernando</b><br>
