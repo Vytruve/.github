@@ -14,97 +14,115 @@
   margin-left: auto; 
   margin-right: auto;
   border: 1px solid #4a2d66;
-  box-shadow: 0 0 20px rgba(138, 52, 235, 0.4);
+  box-shadow: 0 0 25px rgba(138, 52, 235, 0.5);
 ">
   <img src="vytruve-logo.svg" alt="Vytruve Logo" width="150"/>
 </div>
 
 <div align="center">
   <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=58A6FF¢er=true&vCenter=true&width=800&lines=Vytruve;Engenharia+de+Software;Intelig%C3%AAncia+Artificial;Tecnologia+Embarcada" alt="Vytruve Typing SVG"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=9f55ff¢er=true&vCenter=true&width=800&lines=Vytruve;Engenharia+de+Software;Intelig%C3%AAncia+Artificial;Tecnologia+Embarcada" alt="Vytruve Typing SVG"></a>
   </h1>
   <p align="center">
     <strong>Moldando o futuro com código, criatividade e inteligência.</strong>
   </p>
 </div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vytruve/.github/main/profile/assets/animated-divider.gif" width="100%">
+</p>
+
 <!-- 
 ================================================================================================================================================================
                                                                       SOBRE NÓS
 ================================================================================================================================================================
 -->
-## 🔮 Sobre Nós
+<div align="center">
+  <h2>🔮 Sobre Nós</h2>
+  <p>
+    A <strong>Vytruve</strong> é um coletivo de engenheiros e inovadores dedicados a transformar desafios complexos em soluções tecnológicas de ponta. Atuamos na vanguarda da engenharia de software, inteligência artificial e sistemas embarcados, criando produtos que redefinem indústrias e capacitam pessoas.
+  </p>
+  <p>
+    Nossa missão é ir além do convencional, desenvolvendo soluções que não apenas resolvem problemas, mas também inspiram o futuro.
+  </p>
+  <blockquote>
+    <i>"Inovação como princípio, excelência como resultado."</i>
+  </blockquote>
+</div>
 
-A **Vytruve** é um coletivo de engenheiros e inovadores dedicados a transformar desafios complexos em soluções tecnológicas de ponta. Atuamos na vanguarda da engenharia de software, inteligência artificial e sistemas embarcados, criando produtos que redefinem indústrias e capacitam pessoas.
-
-Nossa missão é ir além do convencional, desenvolvendo soluções que não apenas resolvem problemas, mas também inspiram o futuro.
-
-> **Nosso Mantra:** _"Inovação como princípio, excelência como resultado."_
-
-<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vytruve/.github/main/profile/assets/animated-divider.gif" width="100%">
+</p>
 
 <!-- 
 ================================================================================================================================================================
                                                                   NOSSAS DIVISÕES
 ================================================================================================================================================================
 -->
-## 🚀 Nossas Divisões de Inovação
+<div align="center">
+  <h2>🚀 Nossas Divisões de Inovação</h2>
+  <p>Conheça os pilares que sustentam nossa tecnologia e impulsionam o progresso.</p>
+</div>
 
-<p align="center">
-  Conheça os pilares que sustentam nossa tecnologia e impulsionam o progresso.
-</p>
-
-<table width="100%" align="center">
-  <tr align="center">
+<table width="100%" align="center" style="border: none;">
+  <tr align="center" style="border: none;">
     <!-- TruveSoftware -->
-    <td width="33%" style="padding: 20px; border: none;">
-      <img src="https://img.icons8.com/fluency/96/gear.png" alt="TruveSoftware Icon" width="80">
-      <h3 style="color: #58A6FF; margin-bottom: 10px;">TruveSoftware</h3>
-      <p style="font-size: 14px;">Desenvolvemos sistemas corporativos (ERP, RH) e plataformas web robustas, seguras e escaláveis, com foco na simplicidade e na experiência do usuário.</p>
-      <a href="https://vytruve.org/truvesoftware" target="_blank" style="display: inline-block; padding: 12px 24px; border-radius: 8px; background: linear-gradient(90deg, #2f80ed, #56ccf2); text-decoration: none; color: #fff; font-weight: bold; transition: transform 0.2s;">
-        Explore Nossas Soluções
-      </a>
+    <td width="33%" style="padding: 15px; border: none; vertical-align: top;">
+      <div style="border: 1px solid #2f80ed; border-radius: 15px; padding: 20px; height: 100%; display: flex; flex-direction: column; justify-content: space-between; box-shadow: 0 0 15px rgba(47, 128, 237, 0.3);">
+        <img src="https://i.gifer.com/origin/03/0328ef8bab7e4b356d7f01924cb21422_w200.gif" alt="TruveSoftware Icon" width="80">
+        <h3 style="color: #58A6FF; margin-bottom: 10px;">TruveSoftware</h3>
+        <p style="font-size: 14px;">Desenvolvemos sistemas corporativos (ERP, RH) e plataformas web robustas, seguras e escaláveis.</p>
+        <div>
+          <a href="https://vytruve.org/truvesoftware" target="_blank"><img src="https://img.shields.io/badge/Saiba_Mais-2f80ed?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQTEwIDEwIDAgMSAwIDEyIDIyQTEwIDEwIDAgMCAwIDEyIDJ6bTAgMThhOCA4IDAgMSAxIDAtMTYgOCA4IDAgMCAxIDAgMTZ6bS0xLTExaDJ2NmgxLjVMMTIgMTlsLTMuNS00SDl6Ii8+PC9zdmc+&logoColor=white" alt="Saiba Mais"></a>
+          <a href="https://github.com/orgs/Vytruve/repositories?q=truvesoftware" target="_blank"><img src="https://img.shields.io/badge/Ver_Projetos-56ccf2?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projetos"></a>
+        </div>
+      </div>
     </td>
     <!-- vyAi -->
-    <td width="33%" style="padding: 20px; border: none;">
-      <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/96/external-bionic-eye-artificial-intelligence-flaticons-flat-flat-icons.png" alt="vyAi Icon" width="80">
-      <h3 style="color: #58A6FF; margin-bottom: 10px;">vyAi</h3>
-      <p style="font-size: 14px;">Criamos o futuro da tecnologia assistiva e da automação com IA. Especialistas em visão computacional, IA embarcada e modelos de linguagem (LLMs).</p>
-      <a href="https://vytruve.org/vy-ai" target="_blank" style="display: inline-block; padding: 12px 24px; border-radius: 8px; background: linear-gradient(90deg, #f2994a, #f2c94c); text-decoration: none; color: #fff; font-weight: bold; transition: transform 0.2s;">
-        Descubra a IA do Futuro
-      </a>
+    <td width="33%" style="padding: 15px; border: none; vertical-align: top;">
+      <div style="border: 1px solid #f2994a; border-radius: 15px; padding: 20px; height: 100%; display: flex; flex-direction: column; justify-content: space-between; box-shadow: 0 0 15px rgba(242, 153, 74, 0.3);">
+        <img src="https://i.gifer.com/7A2d.gif" alt="vyAi Icon" width="80">
+        <h3 style="color: #f2994a; margin-bottom: 10px;">vyAi</h3>
+        <p style="font-size: 14px;">Criamos o futuro da tecnologia assistiva e da automação com IA, visão computacional e LLMs.</p>
+        <div>
+          <a href="https://vytruve.org/vy-ai" target="_blank"><img src="https://img.shields.io/badge/Saiba_Mais-f2994a?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQTEwIDEwIDAgMSAwIDEyIDIyQTEwIDEwIDAgMCAwIDEyIDJ6bTAgMThhOCA4IDAgMSAxIDAtMTYgOCA4IDAgMCAxIDAgMTZ6bS0xLTExaDJ2NmgxLjVMMTIgMTlsLTMuNS00SDl6Ii8+PC9zdmc+&logoColor=white" alt="Saiba Mais"></a>
+          <a href="https://github.com/orgs/Vytruve/repositories?q=vyai" target="_blank"><img src="https://img.shields.io/badge/Ver_Projetos-f2c94c?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projetos"></a>
+        </div>
+      </div>
     </td>
     <!-- Vyst -->
-    <td width="33%" style="padding: 20px; border: none;">
-      <img src="https://img.icons8.com/fluency/96/server.png" alt="Vyst Icon" width="80">
-      <h3 style="color: #58A6FF; margin-bottom: 10px;">Vyst</h3>
-      <p style="font-size: 14px;">A base de tudo. Projetamos e gerenciamos a arquitetura de sistemas, infraestrutura e tecnologia embarcada que garantem a performance e a confiabilidade de nossos produtos.</p>
-      <a href="https://vytruve.org/vyst" target="_blank" style="display: inline-block; padding: 12px 24px; border-radius: 8px; background: linear-gradient(90deg, #bb6bd9, #a349d1); text-decoration: none; color: #fff; font-weight: bold; transition: transform 0.2s;">
-        Conheça Nossa Tecnologia
-      </a>
+    <td width="33%" style="padding: 15px; border: none; vertical-align: top;">
+      <div style="border: 1px solid #bb6bd9; border-radius: 15px; padding: 20px; height: 100%; display: flex; flex-direction: column; justify-content: space-between; box-shadow: 0 0 15px rgba(187, 107, 217, 0.3);">
+        <img src="https://i.gifer.com/1xOF.gif" alt="Vyst Icon" width="80">
+        <h3 style="color: #bb6bd9; margin-bottom: 10px;">Vyst</h3>
+        <p style="font-size: 14px;">A base de tudo. Projetamos a arquitetura de sistemas, infraestrutura e tecnologia embarcada.</p>
+        <div>
+          <a href="https://vytruve.org/vyst" target="_blank"><img src="https://img.shields.io/badge/Saiba_Mais-bb6bd9?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQTEwIDEwIDAgMSAwIDEyIDIyQTEwIDEwIDAgMCAwIDEyIDJ6bTAgMThhOCA4IDAgMSAxIDAtMTYgOCA4IDAgMCAxIDAgMTZ6bS0xLTExaDJ2NmgxLjVMMTIgMTlsLTMuNS00SDl6Ii8+PC9zdmc+&logoColor=white" alt="Saiba Mais"></a>
+          <a href="https://github.com/orgs/Vytruve/repositories?q=vyst" target="_blank"><img src="https://img.shields.io/badge/Ver_Projetos-a349d1?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projetos"></a>
+        </div>
+      </div>
     </td>
   </tr>
 </table>
 
-<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vytruve/.github/main/profile/assets/animated-divider.gif" width="100%">
+</p>
 
 <!-- 
 ================================================================================================================================================================
                                                                     NOSSA EQUIPE
 ================================================================================================================================================================
 -->
-## 👥 Os Arquitetos da Inovação
-
-<p align="center">
-  Conheça as mentes por trás da Vytruve. Uma equipe multidisciplinar unida pela paixão por tecnologia.
-</p>
-
 <div align="center">
+  <h2>👥 Os Arquitetos da Inovação</h2>
+  <p>Uma equipe multidisciplinar unida pela paixão por criar o impossível.</p>
+  
   <table align="center" style="border: none; margin-left: auto; margin-right: auto;">
     <tr style="border: none;">
       <td style="padding: 15px; border: none; text-align: center;">
         <a href="https://github.com/phkaiser13">
-          <img src="https://github.com/phkaiser13.png?size=120" style="border-radius: 50%; width: 120px; height: 120px; border: 3px solid #58A6FF;" alt="Pedro Henrique Garcia">
+          <img src="https://github.com/phkaiser13.png?size=120" style="border-radius: 50%; width: 120px; height: 120px; border: 3px solid #9f55ff;" alt="Pedro Henrique Garcia">
         </a>
         <br>
         <b>Pedro H. Garcia</b>
@@ -129,8 +147,6 @@ Nossa missão é ir além do convencional, desenvolvendo soluções que não ape
         <br>
         <small>Software Developer</small>
       </td>
-    </tr>
-    <tr style="border: none;">
       <td style="padding: 15px; border: none; text-align: center;">
         <a href="https://github.com/pedroborgesdev">
           <img src="https://github.com/pedroborgesdev.png?size=120" style="border-radius: 50%; width: 120px; height: 120px; border: 3px solid #58A6FF;" alt="Pedro Borges">
@@ -153,75 +169,81 @@ Nossa missão é ir além do convencional, desenvolvendo soluções que não ape
   </table>
 </div>
 
-<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vytruve/.github/main/profile/assets/animated-divider.gif" width="100%">
+</p>
 
-<!--
+<!-- 
 ================================================================================================================================================================
-                                                                    ATIVIDADE RECENTE
+                                                                    ATIVIDADE DA ORGANIZAÇÃO
 ================================================================================================================================================================
 -->
-## 📈 Atividade Recente
-<!-- activity:START -->
-<!-- A atividade recente da organização será inserida aqui automaticamente -->
-<!-- activity:END -->
-<br>
+<div align="center">
+  <h2>📈 Atividade da Organização</h2>
+  <p>Nossas contribuições e projetos mais recentes. Estamos sempre construindo!</p>
+</div>
+
+<!-- activity:start -->
+<!-- A mágica da GitHub Action acontecerá aqui! -->
+<!-- activity:end -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vytruve/.github/main/profile/assets/animated-divider.gif" width="100%">
+</p>
 
 <!-- 
 ================================================================================================================================================================
                                                                 ARSENAL TECNOLÓGICO
 ================================================================================================================================================================
 -->
-## 🛠️ Nosso Arsenal Tecnológico
+<div align="center">
+  <h2>🛠️ Nosso Arsenal Tecnológico</h2>
+  <p>Utilizamos as ferramentas mais modernas e eficientes para construir o futuro.</p>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,cpp,c,java,swift,kotlin,rust,js,react,nodejs,docker,linux,raspberrypi,arduino,git&perline=9" />
+    </a>
+  </p>
+</div>
 
 <p align="center">
-  Utilizamos as ferramentas mais modernas e eficientes para construir o futuro.
+  <img src="https://raw.githubusercontent.com/Vytruve/.github/main/profile/assets/animated-divider.gif" width="100%">
 </p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,cpp,c,java,swift,kotlin,rust,js,react,nodejs,docker,linux,raspberrypi,arduino,git&perline=9" />
-  </a>
-</p>
-
-<br>
 
 <!-- 
 ================================================================================================================================================================
                                                                     APOIE NOSSA MISSÃO
 ================================================================================================================================================================
 -->
-## ❤️ Apoie Nossa Missão
+<div align="center">
+  <h2>❤️ Apoie Nossa Missão</h2>
+</div>
 
-<div align="center" style="background-color: #1c1c1c; padding: 30px; border-radius: 15px;">
+<div align="center" style="background: linear-gradient(90deg, #1a1a1a, #2c2c2c); padding: 30px; border-radius: 15px; border: 1px solid #444; max-width: 700px; margin-left: auto; margin-right: auto;">
   <h3 style="color: #FFFFFF; margin-top: 0;">Gostou do nosso trabalho?</h3>
   <p style="color: #AAAAAA;">
     Sua ajuda nos permite continuar inovando, desenvolvendo projetos open-source e criando tecnologias que fazem a diferença. Considere se tornar um apoiador!
   </p>
-  <a href="https://www.patreon.com/c/VytruveOrg" target="_blank" style="display: inline-block; padding: 15px 30px; border-radius: 10px; background: #FF424D; text-decoration: none; color: #fff; font-weight: bold; font-size: 18px; transition: transform 0.2s;">
-    <img src="https://img.icons8.com/color/48/patreon.png" width="24" style="vertical-align: middle; margin-right: 10px;"/>
-    Apoie no Patreon
+  <a href="https://www.patreon.com/c/VytruveOrg" target="_blank">
+    <img src="https://img.shields.io/badge/Apoie_no_Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white" alt="Apoie no Patreon">
   </a>
 </div>
 
-<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vytruve/.github/main/profile/assets/animated-divider.gif" width="100%">
+</p>
 
 <!-- 
 ================================================================================================================================================================
                                                                     VAMOS CONECTAR
 ================================================================================================================================================================
 -->
-## 📬 Vamos Conectar
-
-<p align="center">
-  Pronto para transformar sua ideia em realidade? Fale conosco.
-</p>
-
-<p align="center">
-  <a href="mailto:vytruve.contact@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-   
-  <a href="https://vytruve.org"><img src="https://img.shields.io/badge/Nosso_Site-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&background=000000¢er=true&vCenter=true&width=600&lines=Vytruve+%7C+Engenharia+para+o+Amanh%C3%A3" alt="Vytruve Footer SVG">
-</p>
+<div align="center">
+  <h2>📬 Vamos Conectar</h2>
+  <p>Pronto para transformar sua ideia em realidade? Fale conosco.</p>
+  <p>
+    <a href="mailto:vytruve.contact@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+     
+    <a href="https://vytruve.org"><img src="https://img.shields.io/badge/Nosso_Site-9f55ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+  </p>
+</div>
