@@ -1,20 +1,50 @@
-name: Update README with Recent Activity
+# Nome do Workflow
+name: Update Org Activity in README
+
+# Gatilhos: quando a Action deve rodar
 on:
+  # Roda automaticamente a cada 30 minutos para manter o perfil sempre atualizado
   schedule:
-    - cron: '*/30 * * * *' # Roda a cada 30 minutos
+    - cron: '*/30 * * * *'
+  
+  # Permite que você rode manualmente pela aba "Actions" para testes ou atualizações imediatas
   workflow_dispatch:
+
+# Tarefas a serem executadas
 jobs:
-  build:
+  update-readme-with-activity:
+    # Nome da tarefa, visível na interface do GitHub Actions
+    name: Update README with recent activity
+    
+    # Sistema operacional onde a tarefa vai rodar
     runs-on: ubuntu-latest
-    name: Update README
+
+    # Passos que a tarefa irá executar em sequência
     steps:
-      - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      # Passo 1: Clona o repositório
+      # A Action precisa ter acesso aos arquivos do repositório para poder editá-los.
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      # Passo 2: Roda a Action que busca a atividade e atualiza o README
+      # Este é o coração da automação.
+      - name: Update README with recent activity
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
+          # O feed de onde buscar as atividades. Para organizações, é o link .atom.
           feed_list: "https://github.com/Vytruve.atom"
-          max_post_count: 5
+          
+          # O caminho EXATO para o arquivo README.md a ser atualizado.
+          # Este é o ajuste mais importante para a sua estrutura.
           readme_path: 'profile/README.md'
+          
+          # Número máximo de itens de atividade a serem listados.
+          max_post_count: 5
+          
+          # O modelo de como cada linha de atividade será formatada.
+          # Usei emojis relacionados a desenvolvimento e inovação.
           template: |
-            $newline - $randomEmoji(💯,🔥,💫,🚀,💡) [$title]($url)
-          date_format: "dd/mm/yyyy"
-          commit_message: "chore: update recent activity"
+            $newline - $randomEmoji(🚀,✨,💡,🔧,⚙️) [$title]($url)
+            
+          # Mensagem de commit que aparecerá no histórico do repositório.
+          commit_message: "chore(docs): update recent org activity in README"
