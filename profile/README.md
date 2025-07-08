@@ -116,11 +116,12 @@
 -->
 <div align="center">
   <h2>👥 Os Arquitetos da Inovação</h2>
-  <p>Uma equipe multidisciplinar unida pela paixão por criar o impossível.</p>
+  <p>Uma equipe multidisciplinar unida pela paixão de transformar o impossível em realidade através da tecnologia.</p>
   
   <table align="center" style="border: none; margin-left: auto; margin-right: auto;">
+    <!-- Primeira Linha de Membros -->
     <tr style="border: none;">
-      <td style="padding: 15px; border: none; text-align: center;">
+      <td style="padding: 15px; border: none; text-align: center; vertical-align: top;">
         <a href="https://github.com/phkaiser13">
           <img src="https://github.com/phkaiser13.png?size=120" style="border-radius: 50%; width: 120px; height: 120px; border: 3px solid #9f55ff;" alt="Pedro Henrique Garcia">
         </a>
@@ -128,8 +129,12 @@
         <b>Pedro H. Garcia</b>
         <br>
         <small>Founder, Lead AI & Software Engineer</small>
+        <br>
+        <div style="margin-top: 8px;">
+          <a href="https://vytruve.org/team/pedro-h-garcia" target="_blank"><img src="https://img.shields.io/badge/V--Profile-9f55ff?style=for-the-badge&logo=v&logoColor=white" alt="Vytruve Profile"></a>
+        </div>
       </td>
-      <td style="padding: 15px; border: none; text-align: center;">
+      <td style="padding: 15px; border: none; text-align: center; vertical-align: top;">
         <a href="https://github.com/Vitorhlem">
           <img src="https://github.com/Vitorhlem.png?size=120" style="border-radius: 50%; width: 120px; height: 120px; border: 3px solid #58A6FF;" alt="Vitor Hugo Lemos">
         </a>
@@ -138,16 +143,20 @@
         <br>
         <small>Software Architect</small>
       </td>
-      <td style="padding: 15px; border: none; text-align: center;">
+      <td style="padding: 15px; border: none; text-align: center; vertical-align: top;">
         <a href="https://github.com/TobiKamui26">
-          <img src="https://github.com/TobiKamui26.png?size=120" style="border-radius: 50%; width: 120px; height: 120px; border: 3px solid #58A6FF;" alt="Antonio">
+          <img src="https://github.com/TobiKamui26.png?size=120" style="border-radius: 50%; width: 120px; height: 120px; border: 3px solid #58A6FF;" alt="Antonio Meloni">
         </a>
         <br>
-        <b>Antonio</b>
+        <b>Antonio Meloni</b>
         <br>
         <small>Software Developer</small>
+        <br>
+        <div style="margin-top: 8px;">
+          <a href="https://vytruve.org/team/antonio-meloni" target="_blank"><img src="https://img.shields.io/badge/V--Profile-9f55ff?style=for-the-badge&logo=v&logoColor=white" alt="Vytruve Profile"></a>
+        </div>
       </td>
-      <td style="padding: 15px; border: none; text-align: center;">
+      <td style="padding: 15px; border: none; text-align: center; vertical-align: top;">
         <a href="https://github.com/pedroborgesdev">
           <img src="https://github.com/pedroborgesdev.png?size=120" style="border-radius: 50%; width: 120px; height: 120px; border: 3px solid #58A6FF;" alt="Pedro Borges">
         </a>
@@ -155,24 +164,68 @@
         <b>Pedro Borges</b>
         <br>
         <small>Software Developer</small>
+        <br>
+        <div style="margin-top: 8px;">
+          <a href="https://vytruve.org/team/pedro-f-borges" target="_blank"><img src="https://img.shields.io/badge/V--Profile-9f55ff?style=for-the-badge&logo=v&logoColor=white" alt="Vytruve Profile"></a>
+        </div>
       </td>
-      <td style="padding: 15px; border: none; text-align: center;">
+    </tr>
+    <!-- Segunda Linha de Membros -->
+    <tr style="border: none;">
+      <td style="padding: 15px; border: none; text-align: center; vertical-align: top;">
         <a href="https://github.com/Kaua404">
-          <img src="https://github.com/Kaua404.png?size=120" style="border-radius: 50%; width: 120px; height: 120px; border: 3px solid #58A6FF;" alt="Kauã">
+          <img src="https://github.com/Kaua404.png?size=120" style="border-radius: 50%; width: 120px; height: 120px; border: 3px solid #58A6FF;" alt="Kauã Fernando">
         </a>
         <br>
-        <b>Kauã</b>
+        <b>Kauã Fernando</b>
         <br>
         <small>Embedded Systems Specialist</small>
+        <br>
+        <div style="margin-top: 8px;">
+          <a href="https://vytruve.org/team/kaua-fernando" target="_blank"><img src="https://img.shields.io/badge/V--Profile-9f55ff?style=for-the-badge&logo=v&logoColor=white" alt="Vytruve Profile"></a>
+        </div>
+      </td>
+      <td style="padding: 15px; border: none; text-align: center; vertical-align: top;">
+        <a href="https://github.com/RyanDsil1">
+          <img src="https://github.com/RyanDsil1.png?size=120" style="border-radius: 50%; width: 120px; height: 120px; border: 3px solid #58A6FF;" alt="Ryan D'silva">
+        </a>
+        <br>
+        <b>Ryan D'silva</b>
+        <br>
+        <small>Software Engineer</small>
+        <br>
+        <div style="margin-top: 8px;">
+          <a href="https://vytruve.org/team/ryan-silva" target="_blank"><img src="https://img.shields.io/badge/V--Profile-9f55ff?style=for-the-badge&logo=v&logoColor=white" alt="Vytruve Profile"></a>
+        </div>
+      </td>
+      <td style="padding: 15px; border: none; text-align: center; vertical-align: top;">
+        <a href="https://github.com/JaozinZzn">
+          <img src="https://github.com/JaozinZzn.png?size=120" style="border-radius: 50%; width: 120px; height: 120px; border: 3px solid #58A6FF;" alt="João P. Marim">
+        </a>
+        <br>
+        <b>João P. Marim</b>
+        <br>
+        <small>Software Engineer</small>
+        <br>
+        <div style="margin-top: 8px;">
+          <a href="https://vytruve.org/team/jao-pedro" target="_blank"><img src="https://img.shields.io/badge/V--Profile-9f55ff?style=for-the-badge&logo=v&logoColor=white" alt="Vytruve Profile"></a>
+        </div>
       </td>
     </tr>
   </table>
+  
+  <br>
+  
+  <div align="center">
+    <a href="https://vytruve.org/team" target="_blank">
+      <img src="https://img.shields.io/badge/Conheça_a_Equipe_Completa-9f55ff?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xNiA4Yy0yLjIxIDAtNCAxLjc5LTQgNHMxLjc5IDQgNCA0IDQtMS43OSA0LTRzLTEuNzktNC00LTR6bTAtNmMtMy4zMSAwLTYgMi42OS02IDZzMi42OSA2IDYgNiA2LTIuNjkgNi02LTIuNjktNi02LTZ6TTggOGMwLTIuMjEgMS43OS00IDQtNGwtMS4wMy0uMzdjLTEuNDktLjU1LTIuNTgtMi4xMS0yLjE2LTMuNjMuNDEtMS41MiAxLjg5LTIuNTMgMy40My0yLjE2bDEuNDkuNDVDMTQuNjEgMi4xMSAxNiAyLjU4IDE2IDR2MWgtNHptLTggOGMwIDIuMjEtMS43OSA0LTQgNGwxLjAzLjM3Yy41NS4yIDEuMDYuNDggMS41My44MWwxLjQ0LjM2YzEuNTIuNDEgMi41MyAxLjg5IDIuMTYgMy40My0uNDEgMS41Mi0xLjg5IDIuNTMtMy40MyAyLjE2bC0xLjQ5LS40NWMtLjgyLS4yOC0xLjU3LS42Ny0yLjI0LTEuMTZDOC41OCAyMC44OSA4IDIwLjQyIDggMjB2LTFjMi4yMSAwIDQtMS43OSA0LTR6Ii8+PC9zdmc+&logoColor=white" alt="Conheça a Equipe Completa">
+    </a>
+  </div>
 </div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vytruve/.github/main/profile/assets/animated-divider.gif" width="100%">
 </p>
-
 <!-- 
 ================================================================================================================================================================
                                                                     ATIVIDADE DA ORGANIZAÇÃO
