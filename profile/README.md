@@ -4,7 +4,7 @@
 ================================================================================================================================================================
 -->
 <div align="center">
-  <img src="https://img.icons8.com/fluency/128/v-symbol.png" alt="Vytruve Logo" width="100"/>
+  <img src="vytruve-logo.svg" alt="Vytruve Logo" width="100"/>
   <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=58A6FF¢er=true&vCenter=true&width=800&lines=Vytruve;Engenharia+de+Software;Intelig%C3%AAncia+Artificial;Tecnologia+Embarcada" alt="Vytruve Typing SVG"></a>
   </h1>
