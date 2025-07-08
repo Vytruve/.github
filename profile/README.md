@@ -99,7 +99,7 @@
       <div style="border: 1px solid #bb6bd9; border-radius: 15px; padding: 20px; height: 100%; display: flex; flex-direction: column; justify-content: space-between; box-shadow: 0 0 15px rgba(187, 107, 217, 0.3);">
         <img src="https://i.gifer.com/1xOF.gif" alt="Vyst Icon" width="80">
         <h3 style="color: #bb6bd9; margin-bottom: 10px;">Vyst</h3>
-        <p style="font-size: 14px;">A base de tudo. Projetamos a arquitetura de sistemas, infraestrutura e tecnologia embarcada.</p>
+        <p style="font-size: 14px;">Part especializada em uso de softwares e produção.</p>
         <div>
           <a href="https://vytruve.org/vyst" target="_blank"><img src="https://img.shields.io/badge/Saiba_Mais-bb6bd9?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQTEwIDEwIDAgMSAwIDEyIDIyQTEwIDEwIDAgMCAwIDEyIDJ6bTAgMThhOCA4IDAgMSAxIDAtMTYgOCA4IDAgMCAxIDAgMTZ6bS0xLTExaDJ2NmgxLjVMMTIgMTlsLTMuNS00SDl6Ii8+PC9zdmc+&logoColor=white" alt="Saiba Mais"></a>
           <a href="https://github.com/orgs/Vytruve/repositories?q=vyst" target="_blank"><img src="https://img.shields.io/badge/Ver_Projetos-a349d1?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projetos"></a>
