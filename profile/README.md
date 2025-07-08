@@ -21,6 +21,7 @@
 
 <div align="center">
   <h1 align="center">
+    <!-- A CORREÇÃO ESTÁ NA URL ABAIXO -->
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=9f55ff¢er=true&vCenter=true&width=800&lines=Vytruve;Engenharia+de+Software;Intelig%C3%AAncia+Artificial;Tecnologia+Embarcada" alt="Vytruve Typing SVG"></a>
   </h1>
   <p align="center">
@@ -31,7 +32,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vytruve/.github/main/profile/assets/animated-divider.gif" width="100%">
 </p>
-
 <!-- 
 ================================================================================================================================================================
                                                                       SOBRE NÓS
