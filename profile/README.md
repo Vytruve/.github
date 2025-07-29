@@ -90,7 +90,7 @@
         <p style="font-size: 14px;">Criamos o futuro da tecnologia assistiva e da automação com IA, visão computacional e LLMs.</p>
         <div>
           <a href="https://vytruve.org/vy-ai" target="_blank"><img src="https://img.shields.io/badge/Saiba_Mais-f2994a?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQTEwIDEwIDAgMSAwIDEyIDIyQTEwIDEwIDAgMCAwIDEyIDJ6bTAgMThhOCA4IDAgMSAxIDAtMTYgOCA4IDAgMCAxIDAgMTZ6bS0xLTExaDJ2NmgxLjVMMTIgMTlsLTMuNS00SDl6Ii8+PC9zdmc+&logoColor=white" alt="Saiba Mais"></a>
-          <a href="https://github.com/orgs/Vytruve/repositories?q=vyai" target="_blank"><img src="https://img.shields.io/badge/Ver_Projetos-f2c94c?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projetos"></a>
+          <a href="https://github.com/orgs/Vytruve/repositories?q=vyai" target="_blank"><img src="<svg viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M20.73,6.59l-7.46-4.31a1.5,1.5,0,0,0-1.54,0L4.27,6.59A1.5,1.5,0,0,0,3.5,7.9v8.2a1.5,1.5,0,0,0,.77,1.31l7.46,4.31a1.5,1.5,0,0,0,1.54,0l7.46-4.31a1.5,1.5,0,0,0,.77-1.31V7.9A1.5,1.5,0,0,0,20.73,6.59ZM12,15.5a3.5,3.5,0,1,0,0-7,3.5,3.5,0,0,0,0,7Z" clip-rule="evenodd"></path></svg>" alt="Ver Projetos"></a>
         </div>
       </div>
     </td>
